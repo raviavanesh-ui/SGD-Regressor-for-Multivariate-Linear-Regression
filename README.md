@@ -28,8 +28,8 @@ STEP 8. End
 ## Program:
 ```
 SGD-Regressor-for-Multivariate-Linear-Regression
-Name : M AHAMED SAHUL HAMEED 
-Register Number : 212224040016
+Name : R.Avanesh
+Register Number : 25018356
 ```
 ```python
 # -------------------------------
